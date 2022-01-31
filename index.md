@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Resume
+-----
 
 ## Contact Info:
 - Phone: (703) 357-2552
