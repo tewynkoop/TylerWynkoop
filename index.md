@@ -2,6 +2,12 @@
 layout: default
 ---
 
+# Resume
+
+## Contact Info:
+- Phone: (703) 357-2552
+- Email: <tewynkoop@gmail.com>
+
 # Objective
 -----
 
@@ -115,3 +121,5 @@ layout: default
 <dd>Tech Ministries Leader at Christ United Methodist Church</dd>
 <dd>(434) 390-0477</dd>
 </dl>
+
+
