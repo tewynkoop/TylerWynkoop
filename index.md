@@ -14,11 +14,6 @@ layout: default
 
 * Looking for a job in the IT Field
 
-# Summary
------
-
-* Gained leadership skills through the Boy Scouts of America by becoming an Eagle Scout and becoming a Team Leader at Target and Oblon. 
-
 # Work Experience
 -----
 
@@ -122,5 +117,3 @@ layout: default
 <dd>Tech Ministries Leader at Christ United Methodist Church</dd>
 <dd>(434) 390-0477</dd>
 </dl>
-
-
