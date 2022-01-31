@@ -2,122 +2,116 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Objective
+-----
 
-[Link to another page](./another-page.html).
+* Looking for a job in the IT Field
 
-There should be whitespace between paragraphs.
+# Summary
+-----
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* Gained leadership skills through the Boy Scouts of America by becoming an Eagle Scout and becoming a Team Leader at Target and Oblon. 
 
-# Header 1
+# Work Experience
+-----
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
+## Passion Community Church <small><small><small> (Powhatan, VA) </small></small></small>
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt style="font-size:16px"><b>IT Support Specialist</b></dt>
+<dd>November ’21 – January ’22</dd>
+<dd>PLACEHOLDER</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+<dl>
+<dt style="font-size:16px"><b>Online Tech</b></dt>
+<dd>August ’20 – May’21</dd>
+<dd>PLACEHOLDER</dd>
+</dl>
 
-```
-The final element.
-```
+## Oblon <small><small><small> (Alexandria, VA) </small></small></small>
+
+<dl>
+<dt style="font-size:16px"><b>IDS Desk Team Leader</b></dt>
+<dd>February ’20 – November ’21</dd>
+<dd>PLACEHOLDER</dd>
+</dl>
+
+<dl>
+<dt style="font-size:16px"><b>Formalities Specialist</b></dt>
+<dd>September ’18 – February ’20</dd>
+<dd>Reviewed and processes all associated formalities after filing of new applications to include Letters Patent. Prepared and e-filed Information Disclosure Statements to include determining whether fees or certification were required.</dd>
+</dl>
+
+## Target <small><small><small> (Fairfax, VA) </small></small></small>
+<dl>
+<dt style="font-size:16px"><b>Electronics Team Leader</b></dt>
+<dd>October ’17 – September ’18</dd>
+<dd>Schedule team members according to weekly workload, manage specialty teams and train them to have expert knowledge in the areas they work, track numbers for a variety of areas to find ways to improve using custom excel. Cross trained in multiple areas, was responsible for helping guests making informed decisions, provide backup as needed throughout the store, set planograms, back stock and pull items for guests</dd>
+</dl>
+
+## Christ United Methodist Church <small><small><small> (Fairfax Station, VA) </small></small></small>
+<dl>
+<dt style="font-size:16px"><b>IT Support Specialist</b></dt>
+<dd>March ’16 – April ’16</dd>
+<dd>Provided IT support for a large church. Managed an active directory server to reset passwords and edit accounts, worked with outside entities to make sure they had the support they needed, did onsite trouble shooting for computers and printers across the campus, and set up new machines when they came in, helped to configure servers and storage arrays.</dd>
+</dl>
+
+# Skills/Certifications
+-----
+ 
+* Eagle Scout Award 
+* Microsoft Office Proficient (Word, Excel, PowerPoint)
+* Adobe Creative Suite Proficient 
+* IT Networking Proficient
+* Computer Programming (Python, some Java)
+* Network Design
+* Computer Repair
+* Knowledgeable with ESXI
+* Proficient with multiple operating systems
+* Team Leadership/Management
+* Customer Service
+ 
+# Education
+-----
+
+<h3>George Mason University</h3> 
+
+<dl>
+<dt><b>Aug ’14 – Left ’18</b></dt>
+<dd>Fairfax, VA</dd>
+<dd><i>Unfinished Degree</i>: Information Systems and Technology (Focus in Networking and Telecommunications)</dd>
+</dl>
+
+# References
+-----
+
+<dl>
+<dt><b>Lenny Harris</b></dt>
+<dd>Director of Operations at Passion Community Church</dd>
+<dd>(804) 512-2583</dd>
+</dl>
+
+<dl>
+<dt><b>Danielle Summers</b></dt>
+<dd>Ex-Team Leader at Oblon</dd>
+<dd>(301) 875-5600</dd>
+</dl>
+
+<dl>
+<dt><b>Karen Lamelle</b></dt>
+<dd>HR Director at Oblon</dd>
+<dd>(703) 413-3000</dd>
+</dl>
+
+<dl>
+<dt><b>Lisa Novgrod</b></dt>
+<dd>HR at Target Burke</dd>
+<dd>(703) 764-5100</dd>
+</dl>
+
+<dl>
+<dt><b>Brian Bachrach</b></dt>
+<dd>Tech Ministries Leader at Christ United Methodist Church</dd>
+<dd>(434) 390-0477</dd>
+</dl>
