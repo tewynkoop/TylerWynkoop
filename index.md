@@ -2,19 +2,19 @@
 layout: default
 ---
 
-# Resume
+<span style="color:#267CB9"> # Resume </span>
 -----
 
 ## Contact Info:
 - Phone: (703) 357-2552
 - Email: <tewynkoop@gmail.com>
 
-# Objective
+<span style="color:#267CB9"> # Objective </span>
 -----
 
 * Looking for a job in the IT Field
 
-# Work Experience
+<span style="color:#267CB9"> # Work Experience </span>
 -----
 
 ## Passion Community Church <small><small><small> (Powhatan, VA) </small></small></small>
@@ -59,7 +59,7 @@ layout: default
 <dd>Provided IT support for a large church. Managed an active directory server to reset passwords and edit accounts, worked with outside entities to make sure they had the support they needed, did onsite trouble shooting for computers and printers across the campus, and set up new machines when they came in, helped to configure servers and storage arrays.</dd>
 </dl>
 
-# Skills/Certifications
+<span style="color:#267CB9"> # Skills/Certifications </span>
 -----
  
 * Eagle Scout Award 
@@ -74,7 +74,7 @@ layout: default
 * Team Leadership/Management
 * Customer Service
  
-# Education
+<span style="color:#267CB9"> # Education </span>
 -----
 
 <h3>George Mason University</h3> 
@@ -85,7 +85,7 @@ layout: default
 <dd><i>Unfinished Degree</i>: Information Systems and Technology (Focus in Networking and Telecommunications)</dd>
 </dl>
 
-# References
+<span style="color:#267CB9"> # References </span>
 -----
 
 <dl>
