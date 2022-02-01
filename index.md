@@ -5,7 +5,7 @@ layout: default
 # <span style="color:#267CB9"> Resume </span>
 -----
 
-## <span style="color:#727272"> Contact Info: </span>
+## Contact Info:
 - Phone: (703) 357-2552
 - Email: <tewynkoop@gmail.com>
 
@@ -17,7 +17,7 @@ layout: default
 # <span style="color:#267CB9"> Work Experience </span>
 -----
 
-## <span style="color:#727272"> Passion Community Church <small><small><small> (Powhatan, VA) </small></small></small></span>
+## Passion Community Church <small><small><small> (Powhatan, VA) </small></small></small>
 
 <dl>
 <dt style="font-size:16px"><b>IT Support Specialist</b></dt>
@@ -31,7 +31,7 @@ layout: default
 <dd>PLACEHOLDER</dd>
 </dl>
 
-## <span style="color:#727272"> Oblon <small><small><small> (Alexandria, VA) </small></small></small></span>
+## Oblon <small><small><small> (Alexandria, VA) </small></small></small>
 
 <dl>
 <dt style="font-size:16px"><b>IDS Desk Team Leader</b></dt>
@@ -45,14 +45,14 @@ layout: default
 <dd>Reviewed and processes all associated formalities after filing of new applications to include Letters Patent. Prepared and e-filed Information Disclosure Statements to include determining whether fees or certification were required.</dd>
 </dl>
 
-## <span style="color:#727272"> Target <small><small><small> (Fairfax, VA) </small></small></small></span>
+## Target <small><small><small> (Fairfax, VA) </small></small></small>
 <dl>
 <dt style="font-size:16px"><b>Electronics Team Leader</b></dt>
 <dd>October ’17 – September ’18</dd>
 <dd>Schedule team members according to weekly workload, manage specialty teams and train them to have expert knowledge in the areas they work, track numbers for a variety of areas to find ways to improve using custom excel. Cross trained in multiple areas, was responsible for helping guests making informed decisions, provide backup as needed throughout the store, set planograms, back stock and pull items for guests</dd>
 </dl>
 
-## <span style="color:#727272"> Christ United Methodist Church <small><small><small> (Fairfax Station, VA) </small></small></small></span>
+## Christ United Methodist Church <small><small><small> (Fairfax Station, VA) </small></small></small>
 <dl>
 <dt style="font-size:16px"><b>IT Support Specialist</b></dt>
 <dd>March ’16 – April ’16</dd>
