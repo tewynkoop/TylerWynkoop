@@ -5,7 +5,7 @@ layout: default
 # <span style="color:#267CB9"> Resume </span>
 -----
 
-## <span style="color:#727272"> Contact Info: </span
+## <span style="color:#727272"> Contact Info: </span>
 - Phone: (703) 357-2552
 - Email: <tewynkoop@gmail.com>
 
