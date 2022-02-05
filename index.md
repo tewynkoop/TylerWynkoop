@@ -59,10 +59,18 @@ layout: default
 <dd>Provided IT support for a large church. Managed an active directory server to reset passwords and edit accounts, worked with outside entities to make sure they had the support they needed, did onsite trouble shooting for computers and printers across the campus, and set up new machines when they came in, helped to configure servers and storage arrays.</dd>
 </dl>
 
-# <span style="color:#267CB9"> Skills/Certifications </span>
+# <span style="color:#267CB9"> Awards/Certifications </span>
 -----
  
-* Eagle Scout Award 
+* Eagle Scout Award
+* IC3 Certification - 2007
+     - Credential ID: N7mm-woXh
+* Microsoft Office Specialist: Microsoft Office Word 2007 (MOS)
+     - Credential ID: A8PC-wQFv
+
+# <span style="color:#267CB9"> Skills </span>
+-----
+ 
 * Microsoft Office Proficient (Word, Excel, PowerPoint)
 * Adobe Creative Suite Proficient 
 * IT Networking Proficient
@@ -80,7 +88,7 @@ layout: default
 <h3>George Mason University</h3> 
 
 <dl>
-<dt><b>Aug ’14 – Left ’18</b></dt>
+<dt><b>Aug ’14 – May ’18</b></dt>
 <dd>Fairfax, VA</dd>
 <dd><i>Unfinished Degree</i>: Information Systems and Technology (Focus in Networking and Telecommunications)</dd>
 </dl>
