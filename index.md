@@ -64,9 +64,9 @@ layout: default
  
 * Eagle Scout Award
 * IC3 Certification - 2007
-     - Credential ID: N7mm-woXh
+     - Credential ID: [N7mm-woXh](http://verify.certiport.com/)
 * Microsoft Office Specialist: Microsoft Office Word 2007 (MOS)
-     - Credential ID: A8PC-wQFv
+     - Credential ID: [A8PC-wQFv](http://verify.certiport.com/)
 
 # <span style="color:#267CB9"> Skills </span>
 -----
