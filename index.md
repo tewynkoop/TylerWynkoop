@@ -91,7 +91,7 @@ layout: default
 <h3>George Mason University</h3> 
 
 <dl>
-<dt><b>Aug ’14 – May ’18</b></dt>
+<dt><b>August ’14 – May ’18</b></dt>
 <dd>Fairfax, VA</dd>
 <dd><i>Unfinished Degree</i>: Information Systems and Technology (Focus in Networking and Telecommunications)</dd>
 </dl>
