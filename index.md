@@ -8,6 +8,7 @@ layout: default
 ## Contact Info:
 - Phone: (703) 357-2552
 - Email: <tewynkoop@gmail.com>
+- [My LinkedIn](www.linkedin.com/in/tylerewynkoop)
 
 # <span style="color:#267CB9"> Objective </span>
 -----
