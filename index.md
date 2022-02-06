@@ -20,13 +20,13 @@ layout: default
 ## Passion Community Church <small><small><small> (Powhatan, VA) </small></small></small>
 
 <dl>
-<dt style="font-size:16px"><b>IT Support Specialist</b></dt>
+<dt style="font-size:16px"><b>IT Support Specialist and Online Tech</b></dt>
 <dd>November ’21 – January ’22</dd>
 <dd>PLACEHOLDER</dd>
 </dl>
 
 <dl>
-<dt style="font-size:16px"><b>Online Tech</b></dt>
+<dt style="font-size:16px"><b>Broadcast Audio Engineer and Online Tech</b></dt>
 <dd>August ’20 – May’21</dd>
 <dd>PLACEHOLDER</dd>
 </dl>
