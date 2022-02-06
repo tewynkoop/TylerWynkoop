@@ -37,7 +37,7 @@ layout: default
 <dl>
 <dt style="font-size:16px"><b>IDS Desk Team Leader</b></dt>
 <dd>February ’20 – November ’21</dd>
-<dd>PLACEHOLDER</dd>
+<dd>Export, review, and track the Daily and Weekly Docket; Electronically marking the formal docket for Docketing; Locate and obtain files to assign them the team for preparation; Reviewing the signing table to ensure all case were signed timely by an attorney; Answering staff questions through research and working knowledge regarding Patent Office and Firm procedures; Drafting client correspondence for special situations outside of template letters</dd>
 </dl>
 
 <dl>
