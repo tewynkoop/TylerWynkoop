@@ -20,47 +20,47 @@ layout: default
 
 ## Passion Community Church <small><small><small> (Powhatan, VA) </small></small></small>
 
-> <dl>
-> <dt style="font-size:16px"><b>IT Support Specialist and Online Tech</b></dt>
-> <dd>November ’21 – January ’22</dd>
-> <dd>PLACEHOLDER</dd>
-> </dl>
-> 
-> <dl>
-> <dt style="font-size:16px"><b>Broadcast Audio Engineer and Online Tech</b></dt>
-> <dd>August ’20 – May’21</dd>
-> <dd>PLACEHOLDER</dd>
-> </dl>
+<dl>
+<dt style="font-size:16px"><b>IT Support Specialist and Online Tech</b></dt>
+<dd>November ’21 – January ’22</dd>
+<dd>PLACEHOLDER</dd>
+</dl>
+
+<dl>
+<dt style="font-size:16px"><b>Broadcast Audio Engineer and Online Tech</b></dt>
+<dd>August ’20 – May’21</dd>
+<dd>PLACEHOLDER</dd>
+</dl>
 
 ## Oblon <small><small><small> (Alexandria, VA) </small></small></small>
 
-> <dl>
-> <dt style="font-size:16px"><b>IDS Desk Team Leader</b></dt>
-> <dd>February ’20 – November ’21</dd>
-> <dd>Export, review, and track the Daily and Weekly Docket; Electronically marking the formal docket for Docketing; Locate and obtain files to assign them the team for preparation; Reviewing the signing table to ensure all case were signed timely by an attorney; Answering staff questions through research and working knowledge regarding Patent Office and Firm procedures; Drafting client correspondence for special situations outside of template letters</dd>
-> </dl>
-> 
-> <dl>
-> <dt style="font-size:16px"><b>Formalities Specialist</b></dt>
-> <dd>September ’18 – February ’20</dd>
-> <dd>Reviewed and processes all associated formalities after filing of new applications to include Letters Patent. Prepared and e-filed Information Disclosure Statements to include determining whether fees or certification were required.</dd>
-> </dl>
+<dl>
+<dt style="font-size:16px"><b>IDS Desk Team Leader</b></dt>
+<dd>February ’20 – November ’21</dd>
+<dd>Export, review, and track the Daily and Weekly Docket; Electronically marking the formal docket for Docketing; Locate and obtain files to assign them the team for preparation; Reviewing the signing table to ensure all case were signed timely by an attorney; Answering staff questions through research and working knowledge regarding Patent Office and Firm procedures; Drafting client correspondence for special situations outside of template letters</dd>
+</dl>
+ 
+<dl>
+<dt style="font-size:16px"><b>Formalities Specialist</b></dt>
+<dd>September ’18 – February ’20</dd>
+<dd>Reviewed and processes all associated formalities after filing of new applications to include Letters Patent. Prepared and e-filed Information Disclosure Statements to include determining whether fees or certification were required.</dd>
+</dl>
 
 ## Target <small><small><small> (Fairfax, VA) </small></small></small>
 
-> <dl>
-> <dt style="font-size:16px"><b>Electronics Team Leader</b></dt>
-> <dd>October ’17 – September ’18</dd>
-> <dd>Schedule team members according to weekly workload, manage specialty teams and train them to have expert knowledge in the areas they work, track numbers for a variety of areas to find ways to improve using custom excel. Cross trained in multiple areas, was responsible for helping guests making informed decisions, provide backup as needed throughout the store, set planograms, back stock and pull items for guests</dd>
-> </dl>
+<dl>
+<dt style="font-size:16px"><b>Electronics Team Leader</b></dt>
+<dd>October ’17 – September ’18</dd>
+<dd>Schedule team members according to weekly workload, manage specialty teams and train them to have expert knowledge in the areas they work, track numbers for a variety of areas to find ways to improve using custom excel. Cross trained in multiple areas, was responsible for helping guests making informed decisions, provide backup as needed throughout the store, set planograms, back stock and pull items for guests</dd>
+</dl>
 
 ## Christ United Methodist Church <small><small><small> (Fairfax Station, VA) </small></small></small>
 
-> <dl>
-> <dt style="font-size:16px"><b>IT Support Specialist</b></dt>
-> <dd>March ’16 – April ’16</dd>
-> <dd>Provided IT support for a large church. Managed an active directory server to reset passwords and edit accounts, worked with outside entities to make sure they had the support they needed, did onsite trouble shooting for computers and printers across the campus, and set up new machines when they came in, helped to configure servers and storage arrays.</dd>
-> </dl>
+<dl>
+<dt style="font-size:16px"><b>IT Support Specialist</b></dt>
+<dd>March ’16 – April ’16</dd>
+<dd>Provided IT support for a large church. Managed an active directory server to reset passwords and edit accounts, worked with outside entities to make sure they had the support they needed, did onsite trouble shooting for computers and printers across the campus, and set up new machines when they came in, helped to configure servers and storage arrays.</dd>
+</dl>
 
 # <span style="color:#267CB9"> Awards/Certifications </span>
 -----
