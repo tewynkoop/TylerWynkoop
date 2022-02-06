@@ -62,11 +62,15 @@ layout: default
 # <span style="color:#267CB9"> Awards/Certifications </span>
 -----
  
+* CompTIA A+ ce Certification
+     - Code: [SYB56S9N9GE41FWB](http://verify.CompTIA.org)
 * Eagle Scout Award
 * IC3 Certification - 2007
      - Credential ID: [N7mm-woXh](http://verify.certiport.com/)
 * Microsoft Office Specialist: Microsoft Office Word 2007 (MOS)
      - Credential ID: [A8PC-wQFv](http://verify.certiport.com/)
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd1eaaa3-9fb5-4e3e-a950-1a10813f3333" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # <span style="color:#267CB9"> Skills </span>
 -----
