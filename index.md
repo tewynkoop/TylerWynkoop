@@ -23,7 +23,7 @@ layout: default
 <dl>
 <dt style="font-size:16px"><b>IT Support Specialist and Online Tech</b></dt>
 <dd>November ’21 – January ’22</dd>
-<dd>PLACEHOLDER</dd>
+<dd>Reviewed Microsoft product licensing agreements; Onboarded existing Apple devices into an MDM for multilocation management; Purchased and configured major workstations for Audio/Video production as well as laptops for admin work and check stations; Programmed system to broadcast music dawn till dusk in public locations; Installed audio consoles, wireless microphone and monitoring system for live and online use; Organized existing networking and media racks.</dd>
 </dl>
 
 <dl>
