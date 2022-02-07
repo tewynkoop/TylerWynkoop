@@ -13,7 +13,7 @@ layout: default
 # <span style="color:#267CB9"> Objective </span>
 -----
 
-* Looking for a job in the IT Field
+* Searching for a job in the IT Field
 
 # <span style="color:#267CB9"> Work Experience </span>
 -----
