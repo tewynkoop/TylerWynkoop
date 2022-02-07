@@ -29,7 +29,7 @@ layout: default
 <dl>
 <dt style="font-size:16px"><b>Broadcast Audio Engineer and Online Tech</b></dt>
 <dd>August ’20 – May’21</dd>
-<dd>PLACEHOLDER</dd>
+<dd>Mix broadcast audio feed for online livestream and multisite church; Record multitrack audio and program video feed for archival purposes; Monitor online attendees to ensure no one encounters issues; Edit and upload video service for kid’s ministry.</dd>
 </dl>
 
 ## Oblon <small><small><small> (Alexandria, VA) </small></small></small>
