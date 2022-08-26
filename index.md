@@ -20,7 +20,7 @@ layout: default
 ## Dell Technologies <small><small><small> (Fairfax, VA) </small></small></small>
 
 <dl>
-<dt style="font-size:16px"><b>Field Service Technicia</b></dt>
+<dt style="font-size:16px"><b>Field Service Technician</b></dt>
 <dd>April ’22 – Present</dd>
 <dd>TBD</dd>
 </dl>
