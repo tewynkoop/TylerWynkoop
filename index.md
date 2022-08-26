@@ -6,7 +6,6 @@ layout: default
 -----
 
 ## Contact Info:
-- Phone: (703) 357-2552
 - Email: <tewynkoop@gmail.com>
 - [My LinkedIn](www.linkedin.com/in/tylerewynkoop)
 
@@ -17,6 +16,14 @@ layout: default
 
 # <span style="color:#267CB9"> Work Experience </span>
 -----
+
+## Dell Technologies <small><small><small> (Fairfax, VA) </small></small></small>
+
+<dl>
+<dt style="font-size:16px"><b>Field Service Technicia</b></dt>
+<dd>April ’22 – Present</dd>
+<dd>TBD</dd>
+</dl>
 
 ## Passion Community Church <small><small><small> (Powhatan, VA) </small></small></small>
 
