@@ -22,7 +22,7 @@ layout: default
 <dl>
 <dt style="font-size:16px"><b>Field Service Technician</b></dt>
 <dd>April ’22 – Present</dd>
-<dd>TBD</dd>
+<dd>System administration for users and computers in the building; Created and managed incident tickets; Assisted executives, VIPs, and top-tier management; Provided technical support to end-users and high-level management; Performed data destructs on assets with confidential information; Used an ordering system to order and keep track of replacement parts; Used asset management for IT hardware; Oversaw daily performance of computer systems; Set up equipment for employee use, performed and ensured proper installation of cables, operating systems and appropriate software.</dd>
 </dl>
 
 ## Passion Community Church <small><small><small> (Powhatan, VA) </small></small></small>
