@@ -79,7 +79,7 @@ layout: default
      - Credential ID: [N7mm-woXh](http://verify.certiport.com/)
 * Microsoft Office Specialist: Microsoft Office Word 2007 (MOS)
      - Credential ID: [A8PC-wQFv](http://verify.certiport.com/)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd1eaaa3-9fb5-4e3e-a950-1a10813f3333" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd1eaaa3-9fb5-4e3e-a950-1a10813f3333" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="278cee26-3051-4662-9759-9a082a816e83" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # <span style="color:#267CB9"> Skills </span>
 -----
