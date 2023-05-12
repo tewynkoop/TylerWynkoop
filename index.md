@@ -9,10 +9,10 @@ layout: default
 - Email: <tewynkoop@gmail.com>
 - [My LinkedIn](www.linkedin.com/in/tylerewynkoop)
 
-# <span style="color:#267CB9"> Objective </span>
+# <span style="color:#267CB9"> About </span>
 -----
 
-* Searching for a job in the IT Field
+* I'm a detail-oriented IT professional working for Dell as a Senior Field Service Technician on the Boeing Company account. Frequently praised as hardworking by my peers, I can be relied upon to help your company achieve its goals.
 
 # <span style="color:#267CB9"> Work Experience </span>
 -----
