@@ -80,6 +80,15 @@ layout: default
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee233c64-e31c-4e84-8612-c854118edff7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e82cc71-7611-4cd3-8fb8-0c004c1987ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="278cee26-3051-4662-9759-9a082a816e83" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+# <span style="color:#267CB9"> Courses </span>
+-----
+ 
+- Systems Engineering Principles at GMU (CYSE 205)
+- Introduction to Computing at GMU (IT 204)
+- Intro to Computer Programming at GMU (CS 112)
+- Information Security Fundamentals at GMU (IT 223)
+- IT Architecture Fundamentals at GMU (IT 105)
+- Database Fundamentals at GMU (IT 214)
 
 # <span style="color:#267CB9"> Skills </span>
 -----
