@@ -78,7 +78,7 @@ layout: default
      - Code: [BE3MLEVQNE111Q3Y](http://verify.CompTIA.org)
 * Eagle Scout Award
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd1eaaa3-9fb5-4e3e-a950-1a10813f3333" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e82cc71-7611-4cd3-8fb8-0c004c1987ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></script> <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="278cee26-3051-4662-9759-9a082a816e83" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee233c64-e31c-4e84-8612-c854118edff7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e82cc71-7611-4cd3-8fb8-0c004c1987ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="278cee26-3051-4662-9759-9a082a816e83" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 # <span style="color:#267CB9"> Skills </span>
