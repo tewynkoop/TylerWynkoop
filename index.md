@@ -69,6 +69,11 @@ layout: default
 <dd>Provided IT support for a large church. Managed an active directory server to reset passwords and edit accounts, worked with outside entities to make sure they had the support they needed, did onsite trouble shooting for computers and printers across the campus, and set up new machines when they came in, helped to configure servers and storage arrays.</dd>
 </dl>
 
+# <span style="color:#267CB9"> Personal Development </span>
+-----
+
+* Setup a SOHO network setup consisting of all managed Ubiquiti Unifi gear, 4 main servers, and a Synology NAS. The network is constructed with 1 firewall, 1 switch, and 2 APs and has custom firewall rules are in place to keep guest traffic, IoT devices, and the DMZ traffic isolated from the secure LAN. The servers are an ESXi 8 server and 3 node Highly Available Proxmox Cluster. The ESXi server is the main production machine and is running a Windows Server 2022 VM for testing and network DNS, as well as, a few Debian based VMs to host docker containers for various workloads. Just to name a few containers there are web servers, uptime monitoring, VPNs and remote management. The 3 node Proxmox cluster is primarily set up for learning RHEL, it hosts a couple more Debian based VMs, and allows for the learning of clustered storage through Ceph.
+
 # <span style="color:#267CB9"> Awards/Certifications </span>
 -----
  
@@ -93,16 +98,32 @@ layout: default
 # <span style="color:#267CB9"> Skills </span>
 -----
  
-* Microsoft Office Proficient (Word, Excel, PowerPoint)
-* Adobe Creative Suite Proficient 
-* IT Networking Proficient
-* Computer Programming (Python, some Java)
-* Network Design
-* Computer Repair
-* Knowledgeable with ESXI
-* Proficient with multiple operating systems
+* VMware vSphere ESXi
+* Incident Management
+* DNS
+* Windows Deployment Services
+* VPNs
+* Routing and Switching
+* Operating Systems
+* Prioritize Workloads
+* Ticketing Systems (ServiceNow)
+* Cybersecurity
+* Network Administration
+* System Administration
+* Windows Server
+* Active Directory
+* Microsoft Office
+* Help Desk Support
+* Troubleshooting
+* Hardware Repair
 * Team Leadership/Management
+* Public Speaking
+* Network Design
+* Information Technology
+* Python
 * Customer Service
+* Strategic Planning
+* Technical Support
  
 # <span style="color:#267CB9"> Education </span>
 -----
@@ -117,6 +138,17 @@ layout: default
 
 # <span style="color:#267CB9"> References </span>
 -----
+<dl>
+<dt><b>Larry Arthurton</b></dt>
+<dd>Regional Services Manager at Dell Technologies</dd>
+<dd>(615) 556-0591</dd>
+</dl>
+
+<dl>
+<dt><b>Algin Works</b></dt>
+<dd>Service Engineer II at Dell Technologies</dd>
+<dd>(240) 416-7813</dd>
+</dl>
 
 <dl>
 <dt><b>Lenny Harris</b></dt>
