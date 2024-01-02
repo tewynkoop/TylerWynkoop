@@ -2,9 +2,7 @@
 layout: default
 ---
 
-| [Home](./index.html) | [Personal Development](./personal-developement.html)|
-
-[<kbd> <br> Home <br> </kbd>](./index.html) [<kbd> <br> Personal Developement <br> </kbd>](./personal-developement.html)
+[<kbd> <br> ## Home <br> </kbd>](./index.html) [<kbd> <br> ## Personal Developement <br> </kbd>](./personal-developement.html)
 
 
 # <span style="color:#267CB9"> Resume </span>
