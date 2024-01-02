@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+# <span style="color:#267CB9"> Welcome to another page/placeholder </span>
+-----
 
 _yay_
 
