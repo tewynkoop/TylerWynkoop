@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# <span style="color:#267CB9"> Welcome to another page/placeholder </span>
------
+# <span style="color:#267CB9"> My Homelab </span>
+------
 
-_yay_
+## Services and Layout:
+![Homelab Diagram](./assets/img/Homelab-Diagram.png)
 
-[back](./)
