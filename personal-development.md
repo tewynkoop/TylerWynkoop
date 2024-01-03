@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 # <span style="color:#267CB9"> My Homelab </span>
