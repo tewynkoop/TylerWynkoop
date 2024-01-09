@@ -7,7 +7,7 @@ layout: default
 
 ## Contact Info:
 - Email: <mailto:tewynkoop@gmail.com>
-- [My LinkedIn](https://www.linkedin.com/in/tylerewynkoop)
+- <a href="https://www.linkedin.com/in/tylerewynkoop">My LinkedIn</a>
 
 # <span style="color:#267CB9"> About </span>
 -----
