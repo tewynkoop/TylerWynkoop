@@ -17,3 +17,6 @@ The Proxmox cluster, primarily used for educational purposes, hosts additional D
 ## <span style="color:#267CB9"> Services and Layout: </span>
 ![Homelab Diagram](./assets/img/Homelab-Diagram.png)
 
+## <span style="color:#267CB9"> The Gear: </span>
+![Homelab Network Rack and Mini Servers](./assets/img/lab1.jpg)
+![Homelab Full-Size Servers](./assets/img/lab2.jpg)
