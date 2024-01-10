@@ -18,5 +18,8 @@ The Proxmox cluster, primarily used for educational purposes, hosts additional D
 ![Homelab Diagram](./assets/img/Homelab-Diagram.png)
 
 ## <span style="color:#267CB9"> The Gear: </span>
-![Homelab Network Rack and Mini Servers](./assets/img/lab1.jpg)
+### The network rack, mini server cluster, and NAS
+![Homelab Network Rack, Mini Server Cluster, and NAS](./assets/img/lab1.jpg)
+
+### The 2 main powerhouse servers (Top: Custom dual Xeon E5-2698 v3, Bottom: Dell Poweredge R720xd)
 ![Homelab Full-Size Servers](./assets/img/lab2.jpg)
