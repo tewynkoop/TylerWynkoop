@@ -131,4 +131,4 @@ layout: default
 
 # <span style="color:#267CB9"> References </span>
 -----
-<b> * Available upon request *</b>
+<b> _Available upon request_ </b>
