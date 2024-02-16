@@ -101,13 +101,12 @@ I'm a detail-oriented IT professional working for Dell as a Senior Field Service
 # <span style="color:#267CB9"> Skills </span>
 -----
  
-* Cybersecurity (Cryptography, Data Security, Digital Forensics, Incident Response ,Threat Analysis, Threat Detection)
+* Cybersecurity (Cryptography, Data Security, Digital Forensics, Incident Response, Threat Analysis, Threat Detection)
 * Network Security (DNS, Threat Detection, Firewall Configuration)
 * Virtualization (VMware vSphere ESXi, XCP-ng, and Proxmox)
-* Basic Scripting (Python, Bash, Powershell)
+* Basic Scripting (Python, Bash, PowerShell)
 * Operating Systems (Windows, MacOS, Linux)
 * Active Directory
-* Disaster Recovery Planning
 * Documentation
 * IT Infrastructure Management
 * Leadership
