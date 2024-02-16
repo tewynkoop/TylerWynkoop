@@ -6,7 +6,7 @@ layout: default
 -----
 
 ## Contact Info:
-- Email: <mailto:tewynkoop@gmail.com>
+- Email: tewynkoop (at) gmail (dot) com
 - <a href="https://www.linkedin.com/in/tylerewynkoop">My LinkedIn</a>
 
 # <span style="color:#267CB9"> About </span>
@@ -82,6 +82,8 @@ layout: default
     - Code: [SYB56S9N9GE41FWB](http://verify.CompTIA.org)
 - CompTIA Security+ ce Certification
     - Code: [BE3MLEVQNE111Q3Y](http://verify.CompTIA.org)
+- Penetration Testing, Incident Response and Forensics Certification
+    - Code: [93BAZ7JF6UET](https://www.credly.com/badges/925540b5-afc0-4e20-a68c-d9c2540fb1ee/)
 - Eagle Scout Award
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee233c64-e31c-4e84-8612-c854118edff7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e82cc71-7611-4cd3-8fb8-0c004c1987ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="925540b5-afc0-4e20-a68c-d9c2540fb1ee" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="278cee26-3051-4662-9759-9a082a816e83" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
@@ -126,57 +128,7 @@ layout: default
 * Strategic Planning
 * Technical Support
  
-# <span style="color:#267CB9"> Education </span>
------
-
-<h3>George Mason University</h3> 
-
-<dl>
-<dt><b>August ’14 – May ’18</b></dt>
-<dd>Fairfax, VA</dd>
-<dd><i>Unfinished Degree</i>: Information Systems and Technology (Focus in Networking and Telecommunications)</dd>
-</dl>
 
 # <span style="color:#267CB9"> References </span>
 -----
-<dl>
-<dt><b>Larry Arthurton</b></dt>
-<dd>Regional Services Manager at Dell Technologies</dd>
-<dd>(615) 556-0591</dd>
-</dl>
-
-<dl>
-<dt><b>Algin Works</b></dt>
-<dd>Service Engineer II at Dell Technologies</dd>
-<dd>(240) 416-7813</dd>
-</dl>
-
-<dl>
-<dt><b>Lenny Harris</b></dt>
-<dd>Director of Operations at Passion Community Church</dd>
-<dd>(804) 512-2583</dd>
-</dl>
-
-<dl>
-<dt><b>Danielle Summers</b></dt>
-<dd>Ex-Team Leader at Oblon</dd>
-<dd>(301) 875-5600</dd>
-</dl>
-
-<dl>
-<dt><b>Karen Lamelle</b></dt>
-<dd>HR Director at Oblon</dd>
-<dd>(703) 413-3000</dd>
-</dl>
-
-<dl>
-<dt><b>Lisa Novgrod</b></dt>
-<dd>HR at Target Burke</dd>
-<dd>(703) 764-5100</dd>
-</dl>
-
-<dl>
-<dt><b>Brian Bachrach</b></dt>
-<dd>Tech Ministries Leader at Christ United Methodist Church</dd>
-<dd>(434) 390-0477</dd>
-</dl>
+<b> * Available upon request *</b>
