@@ -101,32 +101,25 @@ I'm a detail-oriented IT professional working for Dell as a Senior Field Service
 # <span style="color:#267CB9"> Skills </span>
 -----
  
-* VMware vSphere ESXi
-* Incident Management
-* DNS
-* Windows Deployment Services
-* VPNs
-* Routing and Switching
-* Operating Systems
-* Prioritize Workloads
-* Ticketing Systems (ServiceNow)
-* Cybersecurity
-* Network Administration
-* System Administration
-* Windows Server
+* Cybersecurity (Cryptography, Data Security, Digital Forensics, Incident Response ,Threat Analysis, Threat Detection)
+* Network Security (DNS, Threat Detection, Firewall Configuration)
+* Virtualization (VMware vSphere ESXi, XCP-ng, and Proxmox)
+* Basic Scripting (Python, Bash, Powershell)
+* Operating Systems (Windows, MacOS, Linux)
 * Active Directory
-* Microsoft Office
-* Help Desk Support
-* Troubleshooting
-* Hardware Repair
-* Team Leadership/Management
+* Disaster Recovery Planning
+* Documentation
+* IT Infrastructure Management
+* Leadership
+* Microsoft 365
 * Public Speaking
-* Network Design
-* Information Technology
-* Python
-* Customer Service
-* Strategic Planning
+* Security Information and Event Management (SIEM)
+* System Administration
 * Technical Support
+* Ticketing Systems (ServiceNow)
+* Troubleshooting and Problem Solving
+* VPNs (OpenVPN and Wireguard)
+* Windows Deployment Services (WDS)
  
 
 # <span style="color:#267CB9"> References </span>
