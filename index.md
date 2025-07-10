@@ -12,7 +12,7 @@ layout: default
 # <span style="color:#267CB9"> About </span>
 -----
 
-I'm a detail-oriented IT professional working for Dell as a Senior Field Service Technician on the Boeing Company account. Frequently praised as hardworking by my peers, I can be relied upon to help your company achieve its goals.
+I'm a detail-oriented IT professional working for The Boeing Company as a Network Designer. Frequently praised as hardworking by my peers, I can be relied upon to help your company achieve its goals.
 
 # <span style="color:#267CB9"> Work Experience </span>
 -----
