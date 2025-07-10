@@ -20,8 +20,8 @@ I'm a detail-oriented IT professional working for Dell as a Senior Field Service
 ## The Boeing Company <small><small><small> (Springfield, VA) </small></small></small>
 
 <dl>
-<dt style="font-size:16px"><b>Senior Field Service Technician</b></dt>
-<dd>April ’22 – Present</dd>
+<dt style="font-size:16px"><b>Network Designer</b></dt>
+<dd>April ’25 – Present</dd>
 <dd>Researched and architected AV and Security Systems to meet mission and customer guidelines utilizing modern IP solutions. Managed network infrastructure, including hardware installation and configuration for enterprise-level systems. Implemented access control and threat monitoring to comply with security requirements.</dd>
 </dl>
 
