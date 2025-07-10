@@ -17,12 +17,28 @@ I'm a detail-oriented IT professional working for Dell as a Senior Field Service
 # <span style="color:#267CB9"> Work Experience </span>
 -----
 
-## Dell Technologies <small><small><small> (Fairfax, VA) </small></small></small>
+## The Boeing Company <small><small><small> (Springfield, VA) </small></small></small>
 
 <dl>
 <dt style="font-size:16px"><b>Senior Field Service Technician</b></dt>
 <dd>April ’22 – Present</dd>
-<dd>System administration for users and computers in the building; Created and managed incident tickets; Assisted executives, VIPs, and top-tier management; Provided technical support to end-users and high-level management; Performed data destructs on assets with confidential information; Used an ordering system to order and keep track of replacement parts; Used asset management for IT hardware; Oversaw daily performance of computer systems; Set up equipment for employee use, performed and ensured proper installation of cables, operating systems and appropriate software.</dd>
+<dd>Researched and architected AV and Security Systems to meet mission and customer guidelines utilizing modern IP solutions. Managed network infrastructure, including hardware installation and configuration for enterprise-level systems. Implemented access control and threat monitoring to comply with security requirements.</dd>
+</dl>
+
+## Dell Technologies <small><small><small> (Fairfax, VA) </small></small></small>
+
+<dl>
+<dt style="font-size:16px"><b>System Administrator and Field Service Engineer 1</b></dt>
+<dd>June ’24 – April ’25</dd>
+<dd>Managed system performance and availability by improved proactive maintenance strategies using SCCM and WSUS. Conducted regular audits to improve system and network performance, resulting in a dramatic increase in security posture as through use of the tools, Trellix ePO and Rapid7. Automated routine tasks using PowerShell and Python, to increase operational efficiency and security. Configured and maintained juniper and cisco switches to normalize configurations and improve the security.</dd>
+</dl>
+
+## Insight Global <small><small><small> (Fairfax, VA and Arlington, VA) </small></small></small>
+
+<dl>
+<dt style="font-size:16px"><b>Senior Field Service Technician</b></dt>
+<dd>April ’22 – June ’24</dd>
+<dd>Provided dedicated technical support to executives, VIPs, and end-users, enabling them to maintain high productivity levels by maintaining an average SLA of less than 2 hours. Performed data destructs on assets containing confidential information to maintain data security and compliance with privacy regulations as noted by US DoD 5220-22M(E). Set up and installed 300 setups across two and a half floors consisting of computing assets, cables, operating systems, and software for employee use, enhancing efficiency, and received positive feedback for ease of use.</dd>
 </dl>
 
 ## Passion Community Church <small><small><small> (Powhatan, VA) </small></small></small>
@@ -82,6 +98,8 @@ I'm a detail-oriented IT professional working for Dell as a Senior Field Service
     - Code: [SYB56S9N9GE41FWB](http://verify.CompTIA.org)
 - CompTIA Security+ ce Certification
     - Code: [BE3MLEVQNE111Q3Y](http://verify.CompTIA.org)
+- CompTIA Server+ Certification
+    - Code: [V39XGYCQ82EE1BK2](http://verify.CompTIA.org)
 - Penetration Testing, Incident Response and Forensics Certification
     - Code: [93BAZ7JF6UET](https://www.credly.com/badges/925540b5-afc0-4e20-a68c-d9c2540fb1ee/)
 - Eagle Scout Award
