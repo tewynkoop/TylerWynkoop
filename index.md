@@ -17,11 +17,17 @@ I'm a detail-oriented IT professional working for The Boeing Company as a Networ
 # <span style="color:#267CB9"> Work Experience </span>
 -----
 
-## The Boeing Company <small><small><small> (Springfield, VA) </small></small></small>
+## The Boeing Company <small><small><small> (Herndon, VA and Springfield, VA) </small></small></small>
+
+<dl>
+<dt style="font-size:16px"><b>Systems Administrator</b></dt>
+<dd>October ’25 – Present</dd>
+<dd>Integrated and deployed developer focused Windows Servers across multiple classified air gapped environments through Horizon with zero unplanned downtime by leading installation, configuration, and decommissioning legacy developer workstations. Focused on DISA STIG scans, Nessus ACAS scans, and Trellix ePO monitoring across 150+ assets by validating baselines through STIG and vulnerability assessments on RHEL and Windows Servers. Lead patch management for all Windows Systems by leveraging WSUS and PDQ by planning and coordinating changes through Jira-tracked configuration management with engineering, security, and program leadership. Strengthened access control by implementing updated RBAC GPO’s and improved Active Directory groups to assist in new account provisioning, by performing periodic access reviews.</dd>
+</dl>
 
 <dl>
 <dt style="font-size:16px"><b>Network Designer</b></dt>
-<dd>April ’25 – Present</dd>
+<dd>April ’25 – September ’25</dd>
 <dd>Researched and architected AV and Security Systems to meet mission and customer guidelines utilizing modern IP solutions. Managed network infrastructure, including hardware installation and configuration for enterprise-level systems. Implemented access control and threat monitoring to comply with security requirements.</dd>
 </dl>
 
