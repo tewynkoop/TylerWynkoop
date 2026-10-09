@@ -12,7 +12,7 @@ layout: default
 # <span style="color:#267CB9"> About </span>
 -----
 
-I'm a detail-oriented IT professional working for The Boeing Company as a Network Designer. Frequently praised as hardworking by my peers, I can be relied upon to help your company achieve its goals.
+I'm a detail-oriented IT professional working for The Boeing Company as a Systems Administrator. Frequently praised as hardworking by my peers, I can be relied upon to help your company achieve its goals.
 
 # <span style="color:#267CB9"> Work Experience </span>
 -----
